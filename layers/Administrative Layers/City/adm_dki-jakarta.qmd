@@ -1,0 +1,86 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.36.0-Maidenhead">
+  <identifier>ADMINISTRASI_AR_KOTAKAB</identifier>
+  <parentidentifier></parentidentifier>
+  <language>IND</language>
+  <type>dataset</type>
+  <title>Peta Dasar Skala 1:1000 Wilayah Provinsi DKI Jakarta</title>
+  <abstract>1. Peta Dasar Skala 1:1000 Wilayah Provinsi DKI Jakarta dibuat tahun 2022 menggunakan metode monoplotting, dimana informasi pada data vektor yang disajikan dalam dua dimensi (x,y), data disimpan dalam skema RBI dalam format geodatabase (*gdb) dan berformat KUGI. 2. Sumber data yang digunakan adalah Foto Udara tahun 2014 dengan ketelitian horisontal 1.611 m, Foto Udara wahana UAV untuk wilayah administrasi Kepulauan Seribu tahun 2019 dengan ketelitian horisontal sebesar 0.286 m dan CSTRST Tahun 2020 dengan nilai ketelitian horisontal sebesar 2.275 m .3. Data Batas Wilayah yang digunakan dalam Peta Dasar ini berstatus definitif untuk batas provinsi dengan sumber dari Permendagri No 35 Tahun 2015 dan Permendagri No 37 Tahun 2015, batas kota, kecamatan, dan kelurahan yang berstatus indikatif bersumber dari penegasan batas tahun 2019 dan koordinasi kelurahan tahun 2021. 4. Unsur-unsur yang membangun Peta Dasar ini juga merupakan hasil kompilasi data sekunder dari SKPD di Wilayah Provinsi DKI Jakarta
+
+Peta Dasar Skala 1:1.000 Wilayah Provinsi DKI Jakarta Menggunakan Data Foto Udara dan Citra Satelit Resolusi Sangat Tinggi merupakan kegiatan penyediaan Peta Rupabumi khususnya skala besar dalam rangka memenuhi kebutuhan daerah di lingkup Provinsi DKI Jakarta, diantaranya berupa penyediaan Peta Rupabumi untuk RDTR, kawasan strategis, kawasan berorientasi transit, serta mendukung program prioritas pemerintah lainnya. Peta Dasar Skala 1:1.000 Wilayah Provinsi DKI Jakarta merupakan hasil dari kompilasi data 2 dimensi Foto Udara tahun 2014, Foto Udara wahana UAV untuk wilayah administrasi Kepulauan Seribu tahun 2019 dan CSTRST Tahun 2020, sebagai pelaksana yaitu Dinas Cipta Karya, Tata Ruang,dan Pertanahan Provinsi DKI Jakarta.</abstract>
+  <keywords vocabulary="Search keys">
+    <keyword>2021</keyword>
+    <keyword>2022</keyword>
+    <keyword>Provinsi DKI Jakarta</keyword>
+    <keyword>Bangunan dan Fasilitas Umum</keyword>
+    <keyword>Perairan</keyword>
+    <keyword>Utilitas</keyword>
+    <keyword>Penutup Lahan</keyword>
+    <keyword>Transportasi</keyword>
+  </keywords>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>Provinsi DKI Jakarta</keyword>
+    <keyword>Bangunan dan Fasilitas Umum</keyword>
+    <keyword>Perairan</keyword>
+    <keyword>Utilitas</keyword>
+    <keyword>Penutup Lahan</keyword>
+    <keyword>Transportasi</keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type></type>
+      <address>Jl. Taman Jati Baru, RT.17/RW.1, Cideng, Gambir</address>
+      <city>Jakarta Pusat</city>
+      <administrativearea>DKI Jakarta</administrativearea>
+      <postalcode>10150</postalcode>
+      <country>ID</country>
+    </contactAddress>
+    <name>Heru Hermawanto</name>
+    <organization>Dinas Cipta Karya, Tata Ruang, dan Pertanahan Provinsi DKI Jakarta</organization>
+    <position>Kepala Dinas Dinas Cipta Karya, Tata Ruang, dan Pertanahan DKI Jakarta</position>
+    <voice>(021) 3510008</voice>
+    <fax></fax>
+    <email>dinas_cktrp@jakarta.go.id</email>
+    <role></role>
+  </contact>
+  <links/>
+  <history>1. Peta Dasar Skala 1:1000 Wilayah Provinsi DKI Jakarta dibuat tahun 2022 menggunakan metode monoplotting, dimana informasi pada data vektor yang disajikan dalam dua dimensi (x,y), data disimpan dalam skema RBI dalam format geodatabase (*gdb) dan berformat KUGI. 2. Sumber data yang digunakan adalah Foto Udara tahun 2014 dengan ketelitian horisontal 1.611 m, Foto Udara wahana UAV untuk wilayah administrasi Kepulauan Seribu tahun 2019 dengan ketelitian horisontal sebesar 0.286 m dan CSTRST Tahun 2020 dengan nilai ketelitian horisontal sebesar 2.275 m .3. Data Batas Wilayah yang digunakan dalam Peta Dasar ini berstatus definitif untuk batas provinsi dengan sumber dari Permendagri No 35 Tahun 2015 dan Permendagri No 37 Tahun 2015, batas kota, kecamatan, dan kelurahan yang berstatus indikatif bersumber dari penegasan batas tahun 2019 dan koordinasi kelurahan tahun 2021. 4. Unsur-unsur yang membangun Peta Dasar ini juga merupakan hasil kompilasi data sekunder dari SKPD di Wilayah Provinsi DKI Jakarta</history>
+  <history>Data source: 1. Sumber data yang digunakan adalah Foto Udara tahun 2014 dengan ketelitian horisontal 1.611 m, Foto Udara wahana UAV untuk wilayah administrasi Kepulauan Seribu tahun 2019 dengan ketelitian horisontal sebesar 0.286 m dan CSTRST Tahun 2020 dengan nilai ketelitian horisontal sebesar 2.275 m. 2. Unsur-unsur yang membangun Peta Dasar ini juga merupakan hasil kompilasi data sekunder dari SKPD di Wilayah Provinsi DKI Jakarta</history>
+  <dates>
+    <date value="2022-09-16T01:00:00" type="Created"/>
+    <date value="2022-09-30T00:00:00" type="Published"/>
+    <date value="2022-09-30T00:00:00" type="Revised"/>
+  </dates>
+  <fees></fees>
+  <constraints type="Limitations of use">1. Peta Dasar Skala 1:1000 Wilayah Provinsi DKI Jakarta tidak dapat digunakan sebagai acuan untuk pengambilan informasi unsur rupabumi di skala yang lebih besar.2. Data Toponim yang terlampir dalam Peta Dasar ini merupakan data toponim yang belum melalui proses Pembakuan Nama Rupabumi.</constraints>
+  <rights>Dinas Cipta Karya, Tata Ruang,dan Pertanahan Provinsi DKI Jakarta</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial minz="0" miny="-6.39832999999999963" maxy="-5.32000000000000028" maxx="106.97167000000000314" crs="EPSG:4326" maxz="0" minx="106.37833000000000538" dimensions="2"/>
+    <temporal>
+      <period>
+        <start>2022-09-29T17:00:00Z</start>
+        <end></end>
+      </period>
+    </temporal>
+    <temporal>
+      <period>
+        <start></start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>
